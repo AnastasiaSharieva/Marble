@@ -535,7 +535,7 @@ footer {
 
 	.textSlide {
 		flex-wrap: nowrap;
-		height: 260px;
+		height: 220px;
 	}
 
 	.h6Drei {
@@ -557,15 +557,22 @@ footer {
 	}
 
 	.textS {
-		line-height: 14px;
+		font-size: 10px;
+		line-height: 12px;
 	}
 
 	.columS {
-		line-height: 14px;
+		line-height: 12px;
+		font-size: 10px;
+
 	}
 
 	.marc {
 		width: 8px;
 		height: 8px;
+	}
+
+	.pfoot {
+		font-size: 10px;
 	}
 }
